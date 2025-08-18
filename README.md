@@ -1,1 +1,1 @@
-# Interest-calculator
+# A calculator that calculates interest
